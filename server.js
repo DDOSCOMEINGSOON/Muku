@@ -2,7 +2,7 @@ const express = require("express");
 const TelegramBot = require("node-telegram-bot-api");
 const app = express();
 
-const TOKEN = "8145643255:AAHqX1WeVQbu_t-hqE_n9gfQI-gDcZY_s5A"; // <-- apna token yahan daal
+const TOKEN = "8131992378:AAEDLBlSQfN7DTEl3b1SB1BBdHBExhrvJsg"; // <-- apna token yahan daal
 const URL = "https://haq-5.onrender.com"; // <-- Render ka URL
 
 const bot = new TelegramBot(TOKEN);
